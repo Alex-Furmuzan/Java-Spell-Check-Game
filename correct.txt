@@ -1,0 +1,10 @@
+stadium
+football
+basketball
+table
+friend
+sleeve
+leave
+keyboard
+delete
+shirt
